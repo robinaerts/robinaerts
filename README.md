@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-<img src="https://github.com/robinaerts/robinaerts/blob/main/assets/banner.png?raw=true" height=500/>
+<img src="https://github.com/robinaerts/robinaerts/blob/main/assets/banner.png?raw=true"/>
 </div>
   
 ## 🤷🏼‍♂️ Who am I?
