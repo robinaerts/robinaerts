@@ -49,8 +49,7 @@ I'm a software developer from Belgium ![belgium](https://github.com/yammadev/fla
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   24 mins         █████████████▒░░░░░░░░░░░   53.59 %
-CSS          21 mins         ███████████▓░░░░░░░░░░░░░   46.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
