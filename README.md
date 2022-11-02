@@ -16,7 +16,7 @@ I'm a software developer from Belgium ![belgium](https://github.com/yammadev/fla
 
 - Web development
 - Machine learning
-- Competitive programming
+- Microcontrollers
 
  but I also like to try and explore new technologies :smile:
  
