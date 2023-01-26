@@ -49,12 +49,12 @@ I'm a software developer from Belgium ![belgium](https://github.com/yammadev/fla
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   32 mins         █████░░░░░░░░░░░░░░░░░░░░   20.18 %
-JavaScript   32 mins         █████░░░░░░░░░░░░░░░░░░░░   20.06 %
-HTML         30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-C++          28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
-CSS          23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
-Python       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+TypeScript   1 hr 47 mins    ████████████░░░░░░░░░░░░░   48.41 %
+JavaScript   46 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
+HTML         27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+CSS          16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+JSON         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Python       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
