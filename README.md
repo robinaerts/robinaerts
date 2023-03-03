@@ -49,7 +49,9 @@ I'm a software developer from Belgium ![belgium](https://github.com/yammadev/fla
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+AutoHotkey   10 mins         █████████████▓░░░░░░░░░░░   54.71 %
+TypeScript   8 mins          ███████████░░░░░░░░░░░░░░   43.85 %
+Git          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
