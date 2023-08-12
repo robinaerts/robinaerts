@@ -25,7 +25,7 @@ I'm a software developer from Belgium ![belgium](https://github.com/yammadev/fla
 ## ⌨️ Technologies I've worked in
 ### Web:
 
-![Web Skills](https://skills.thijs.gg/icons?i=html,css,js,react,next,firebase,mongo,nodejs&theme=light)
+![Web Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,tailwind,threejs,react,next,firebase,mongo,nodejs&theme=light)
 
 ### Desktop:
 
