@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <a href="https://robyte.ga" target="_blank">Robin Aerts</a>🙌</h1>
+<h1 align="center">Hello, I'm <a href="https://robinaerts.be" target="_blank">Robin Aerts</a>🙌</h1>
 
 <div align="center">
   <a target="_blank" href="https://robinaerts.be">Portfolio</a>
