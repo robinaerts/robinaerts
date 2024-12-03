@@ -42,11 +42,11 @@ I'm a software developer and student from Belgium ![belgium](https://github.com/
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 13 mins   █████████████▒░░░░░░░░░░░   53.87 %
-TypeScript   42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
-JavaScript   37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
-C++          27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
-YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Python       2 hrs 13 mins   ███████████████▒░░░░░░░░░   60.71 %
+TypeScript   42 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
+JavaScript   37 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
