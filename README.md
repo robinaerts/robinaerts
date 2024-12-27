@@ -16,7 +16,7 @@ I'm a software developer and student from Belgium ![belgium](https://github.com/
 
  but I also like to try and explore new technologies :smile:
  
-🔭 I’m currently working on [ShortGen](https://shortgen.robinaerts.be)<br>🌱 I’m currently learning **Chrome Extensions, Docker, DevOps, a bit of PyTorch**<br>👨‍💻 All of my projects are available at [https://robinaerts.be](https://robinaerts.be)<br>📝 I regularly write articles on [https://robinaerts.be/blog](https://robinaerts.be/blog)<br>💬 Ask me about **Typescript, React, NextJS, Astro, Django, ...**<br>📫 How to reach me **nibor.aerts@gmail.com**<br>📄 Know about my experiences [https://robinaerts.be/about](https://robinaerts.be/about)
+🔭 I’m currently working on [ShortGen](https://shortgen.robinaerts.be)<br>🌱 I’m currently learning **Chrome Extensions, Docker, DevOps, a bit of PyTorch**<br>👨‍💻 All of my projects are available at [https://robinaerts.be](https://robinaerts.be)<br>📝 I regularly write articles on [https://robinaerts.be/blog](https://robinaerts.be/blog)<br>💬 Ask me about **Typescript, React, NextJS, Astro, Django, ...**<br>📫 How to reach me **hello@robinaerts.be**<br>📄 Know about my experiences [https://robinaerts.be/about](https://robinaerts.be/about)
 
 
 ## 🌐 Socials:
