@@ -42,8 +42,7 @@ I'm a software developer and student from Belgium ![belgium](https://github.com/
 <!--START_SECTION:waka-->
 
 ```txt
-TOML   7 mins          ███████████████████▒░░░░░   77.12 %
-SQL    2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.88 %
+SQL   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
