@@ -42,7 +42,8 @@ I'm a software developer and student from Belgium ![belgium](https://github.com/
 <!--START_SECTION:waka-->
 
 ```txt
-SQL   2 mins          █████████████████████████   100.00 %
+Docker   32 mins         ████████████████████████▓   98.88 %
+YAML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
