@@ -42,8 +42,11 @@ I'm a software developer and student from Belgium ![belgium](https://github.com/
 <!--START_SECTION:waka-->
 
 ```txt
-Docker   32 mins         ████████████████████████▓   98.88 %
-YAML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JavaScript                 1 hr 3 mins     ████████▓░░░░░░░░░░░░░░░░   34.97 %
+YAML                       59 mins         ████████░░░░░░░░░░░░░░░░░   32.42 %
+Docker                     45 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
+Nginx configuration file   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Bash                       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
