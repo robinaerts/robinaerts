@@ -42,10 +42,7 @@ I'm a software developer and student from Belgium ![belgium](https://github.com/
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 28 mins    █████████████▓░░░░░░░░░░░   54.01 %
-Python       1 hr 1 min      █████████▒░░░░░░░░░░░░░░░   37.11 %
-YAML         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
