@@ -42,8 +42,9 @@ I'm a software developer and student from Belgium ![belgium](https://github.com/
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       6 mins          ████████████████████▒░░░░   81.87 %
-Markdown   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
+YAML       6 mins          █████████████████▓░░░░░░░   70.43 %
+Markdown   1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+C#         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
 ```
 
 <!--END_SECTION:waka-->
