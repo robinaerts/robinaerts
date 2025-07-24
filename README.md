@@ -42,10 +42,11 @@ I'm a software developer and student from Belgium ![belgium](https://github.com/
 <!--START_SECTION:waka-->
 
 ```txt
-C++      28 mins         █████████████████░░░░░░░░   67.82 %
-Python   9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.31 %
-INI      2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-Dart     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Dart                2 hrs 43 mins   ████████████████▒░░░░░░░░   65.05 %
+YAML                31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+C++                 28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+Java Properties     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Python              9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
