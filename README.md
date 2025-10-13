@@ -42,9 +42,7 @@ I'm a software developer and student from Belgium ![belgium](https://github.com/
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 42 mins    ████████████████████████▓   98.87 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
