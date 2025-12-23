@@ -42,11 +42,11 @@ I'm a software developer and student from Belgium ![belgium](https://github.com/
 <!--START_SECTION:waka-->
 
 ```txt
-Java    1 hr 22 mins    ██████████████████████▓░░   91.09 %
-YAML    5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-CSV     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-XML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Java    2 hrs           ███████████████████████▒░   93.63 %
+YAML    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+CSV     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+XML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
