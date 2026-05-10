@@ -42,8 +42,7 @@ I'm a software developer and student from Belgium ![belgium](https://github.com/
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         47 mins               ██████████████████░░░░░░░   71.94 %
-JavaScript   18 mins               ███████░░░░░░░░░░░░░░░░░░   28.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
