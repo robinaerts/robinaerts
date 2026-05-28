@@ -42,10 +42,8 @@ I'm a software developer and student from Belgium ![belgium](https://github.com/
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 45 mins          ████████████████████▓░░░░   82.88 %
-JSON     9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-Bash     6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Go       5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Python   56 mins               ███████████████████████░░   92.31 %
+Bash     4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
 ```
 
 <!--END_SECTION:waka-->
